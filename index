@@ -1,0 +1,66 @@
+<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge"> <!-- HB-3426 -->
+	    <script type="text/javascript" src="js/ophb/main_ophb_0011.js"></script>
+	    <script type="text/javascript" src="bibliotecas/jquery/jquery-1.2.6.js"></script>
+	    <script type="text/javascript" src="bibliotecas/jqform/jquery.form.js"></script>
+	    <script type="text/javascript" src="bibliotecas/validate/jquery.validate.js"></script>
+		<script type="text/javascript" src="bibliotecas/jquery/teclado.virtual/jquery.caret.js"></script>
+	    <script type="text/javascript" src="bibliotecas/jquery/teclado.virtual/jquery.osk.js"></script>
+		<script type="text/javascript" src="bibliotecas/jquery/jquery.event.drag-1.4.min.js"></script>
+		<script type="text/javascript" src="js/teclado-virtual-controller.js" charset="utf-8"></script>
+		<script type="text/javascript" src="js/transaction-controller.js"></script>
+	    <script type="text/javascript" src="js/LinkTransactionController.js"></script>
+	    <script type="text/javascript" src="js/link-controller.js"></script>
+	    <script type="text/javascript" src="bibliotecas/jquery/jqModal.min.js"></script>
+	    <script type="text/javascript" src="js/modal-controller.js"></script>
+	    <script type="text/javascript" src="js/JavaScript-Seal-v3.0.js"></script>
+        <link rel="stylesheet" href="bibliotecas/css/modal.css" type="text/css" media="all" charset="utf-8">
+        <link rel="stylesheet" href="bibliotecas/css/link.modal.css" type="text/css" media="all" charset="utf-8">
+        <link rel="stylesheet" href="componentes/contenidos/estado/estado.css" type="text/css" media="screen" charset="utf-8">
+        <script type="text/javascript" src="componentes/contenidos/estado/estado.js"></script>
+        <script type="text/javascript" src="componentes/contenidos/enlaces.login/enlaces.login.js"></script>
+	    <title>Red Link - BANCO DE LA NACION ARGENTINA</title>
+		<link rel="stylesheet" type="text/css" href="entidades/banco.nacion.v2/vista/login.css">
+        <link rel="stylesheet" media="print" type="text/css" href="entidades/banco.nacion.v2/vista/toprint.css">
+        <link rel="stylesheet" href="componentes/contenidos/teclado/teclado_full.css" type="text/css" media="screen" charset="utf-8">
+	
+		<!-- tag manager  -->
+		
+		
+		
+		
+		
+
+		<script type="text/javascript">
+            var urlFaqs = 'faqs.htm';
+            var urlInformacion = 'informacion.htm';
+            var urltyc = 'terminos.htm';
+            var urlSeguridad = 'seguridad.htm';
+            var usarTecladoVirtual = true;
+            var tecladoAlfanum = true;
+            var urlLogout = "logouttyc.htm";
+            var urlLogin = "login.htm";            
+            var urlBrowserError = "browsererror.htm";
+            var servicePackBloqueadosIE6 = "";
+            var ipSinRestriccionIE6SP1 =  false;
+            var pdfFaq = '/bna/faqs/bna.pdf';
+            var habilitarRecordarUsuario = false;
+            var fiidEntidad = '0011';
+            var urlEnrolamientoExterno = '';
+            var urlEnrolamiento = 'registrarse.htm';
+            var urlRedireccionDesbloqueo = 'desbloqueoSolicitud.htm';
+            var urlRedireccionBlanqueo = 'blanqueoSolicitud.htm';
+            var isBancoMigrado = 'false';
+            var urlBancoMigrado = '';
+		</script>
+				
+	    <script type="text/javascript" src="js/login-utils.js"></script>
+	    <script type="text/javascript" src="js/tyc-controller.js"></script>
+   		<script type="text/javascript" src="js/sfa-base.js"></script>
+   		<script type="text/javascript">
+   			validarBancoMigradoController.validarBancoMigrado();
+   		</script>
+		
+			<script async="" data-insuit-position="right" data-insuit-tab-custom="true" type="text/javascript" src="https://hb.accesible.redlink.com.ar/i4tservice/insuit-app.js"></script> 
+		
+	<link type="text/css" rel="stylesheet" media="screen, print" href="https://hb.accesible.redlink.com.ar/i4tservice/css/insuit-page.css?V8.12.15-522" crossorigin="anonymous"><link type="text/css" rel="stylesheet" media="screen, print" href="https://hb.accesible.redlink.com.ar/i4tservice/css/insuit-tab.css?V8.12.15-522"></head>
